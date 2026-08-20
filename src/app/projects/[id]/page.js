@@ -61,6 +61,7 @@ const projects = {
       "Route Handlers",
       "Responsive design",
     ],
+    liveUrl: "https://job-tracker-teal-mu.vercel.app/"
   },
 };
 
